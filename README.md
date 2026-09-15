@@ -44,4 +44,4 @@ Building real-world AI automation projects with n8n, AI agents, RAG, APIs, and b
 
 ## Connect With Me
 
-- 📧 Email: khanfaiziya@gmail.com
+- 📧 Email: khanfaiziya2@gmail.com
